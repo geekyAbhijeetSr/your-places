@@ -18,8 +18,6 @@ I enrolled in a project-focused course on Udemy, and this is the project we crea
 <span style="color: red">Warning:</span> It looks boring because my Instructor provided the css to speed things up, his main focus was to teach core concepts and not styling.
 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [React](https://reactjs.org/)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [NodeJs](https://nodejs.org/)
