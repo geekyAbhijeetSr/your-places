@@ -20,7 +20,3 @@ I enrolled in a project-focused course on Udemy, and this is the project we crea
 ### Built With
 * [React](https://reactjs.org/)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
-* [NodeJs](https://nodejs.org/)
-* [ExpressJs](https://expressjs.com/)
-* [MongoDB](https://www.mongodb.com/)
-* [Mongoose](https://mongoosejs.com/)
