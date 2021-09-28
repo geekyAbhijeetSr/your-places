@@ -16,6 +16,7 @@ import LoadingSpinner from './shared/components/UIElements/LoadingSpinner';
 import { AuthContext } from './shared/context/auth-context';
 import { useAuth } from './shared/hooks/auth-hook';
 
+// Lazy loading
 // const Users = React.lazy(() => import('./user/pages/Users'))
 const NewPlace = React.lazy(() => import('./places/pages/NewPlace'))
 const UserPlaces = React.lazy(() => import('./places/pages/UserPlaces'))
@@ -45,7 +46,8 @@ const App = () => {
         <Redirect to="/" />
       </Switch>
     );
-  } else {
+  } 
+  else {
     routes = (
       <Switch>
         <Route path="/" exact>
